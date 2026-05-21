@@ -115,15 +115,7 @@
 
 ---
 
-# 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/krishnachandra-9877/krishnachandra-9877/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-
-</div>
-
----
 
 # 🌱 Currently Learning
 
